@@ -1,5 +1,5 @@
 Nombre: Isayana del Rosario Díaz Morales 
-Sección:2 
+Grupo:2 
 
 Algoritmos realizados:
 - Suma de números
